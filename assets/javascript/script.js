@@ -24,7 +24,9 @@ function validaNome (){
         txtNome.innerHTML = "Nome Válido"
         txtNome.style.color ="green"
     }
+
 }
+
 
 function validaEmail(){
     let txtEmail = document.querySelector('#email')
